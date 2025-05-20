@@ -40,15 +40,15 @@
 - Node.js v16+  
 - npm  
 - MongoDB 4.4+  
-- Access to on-prem SMTP
+- Access to SMTP or Google app
 
 ### **Installation & Launch**
 ```bash
 # Clone the repository
-git clone https://github.com/ammadakram/P07-ACASA.git
+git clone https://github.com/ShabbirKamal/acasa_app.git
 
 # Navigate to the webapp folder
-cd P07-ACASA/Final\ Deliverables/Code/acasa-webapp
+cd acasa_app
 
 # Install dependencies
 npm install
