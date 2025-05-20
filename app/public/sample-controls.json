@@ -1,0 +1,34 @@
+[
+    {
+      "name": "Access Control Policy",
+      "description": "Establish and maintain an access control policy that addresses purpose, scope, roles, responsibilities, and compliance.",
+      "category": "Access Control",
+      "status": "Implemented"
+    },
+    {
+      "name": "Account Management",
+      "description": "Establish and maintain account creation, modification, review, and termination procedures.",
+      "category": "Access Control",
+      "status": "In Progress"
+    },
+    {
+      "name": "Least Privilege",
+      "description": "Employ the principle of least privilege and restrict access to physical and logical assets and associated facilities to authorized users.",
+      "category": "Access Control",
+      "status": "Not Implemented"
+    },
+    {
+      "name": "Risk Assessment",
+      "description": "Conduct periodic risk assessments to identify and prioritize risks to organizational operations and assets.",
+      "category": "Risk Management",
+      "status": "Implemented"
+    },
+    {
+      "name": "Security Awareness Training",
+      "description": "Provide security awareness training to all personnel upon hire and at least annually thereafter.",
+      "category": "Awareness and Training",
+      "status": "In Progress"
+    }
+  ]
+  
+  

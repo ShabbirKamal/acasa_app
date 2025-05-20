@@ -1,0 +1,16 @@
+// tsconfig.electron.json
+{
+    "compilerOptions": {
+      "rootDir": "electron",             // compile only files under electron/
+      "outDir": "electron-build",        // emit JS here
+      "module": "commonjs",
+      "target": "es2020",
+      "sourceMap": true,
+      "esModuleInterop": true,
+      "incremental": false,              // ← disable the .tsbuildinfo
+      "skipLibCheck": true,
+      "strict": true
+    },
+    "include": ["electron/**/*"]
+  }
+  
